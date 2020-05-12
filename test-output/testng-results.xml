@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="38198" started-at="2020-05-12T16:16:41Z" finished-at="2020-05-12T16:17:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="38198" started-at="2020-05-12T16:16:41Z" finished-at="2020-05-12T16:17:19Z">
+      <class name="Assignment.com.automationpractice.Assignment">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:Assignment.com.automationpractice.Assignment@47f37ef1]" name="launchBrowser" is-config="true" duration-ms="9225" started-at="2020-05-12T21:46:32Z" finished-at="2020-05-12T21:46:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="navitagetoHomePage()[pri:0, instance:Assignment.com.automationpractice.Assignment@47f37ef1]" name="navitagetoHomePage" duration-ms="1759" started-at="2020-05-12T21:46:41Z" finished-at="2020-05-12T21:46:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navitagetoHomePage -->
+        <test-method status="PASS" signature="createAccount()[pri:1, instance:Assignment.com.automationpractice.Assignment@47f37ef1]" name="createAccount" duration-ms="5099" started-at="2020-05-12T21:46:43Z" finished-at="2020-05-12T21:46:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAccount -->
+        <test-method status="PASS" signature="selectProductFromWomanSection()[pri:2, instance:Assignment.com.automationpractice.Assignment@47f37ef1]" name="selectProductFromWomanSection" duration-ms="9386" started-at="2020-05-12T21:46:48Z" finished-at="2020-05-12T21:46:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectProductFromWomanSection -->
+        <test-method status="PASS" signature="checkoutAndVerifyAmount()[pri:4, instance:Assignment.com.automationpractice.Assignment@47f37ef1]" name="checkoutAndVerifyAmount" duration-ms="15588" started-at="2020-05-12T21:46:57Z" finished-at="2020-05-12T21:47:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkoutAndVerifyAmount -->
+        <test-method status="PASS" signature="amountVerificationInProfilePage()[pri:5, instance:Assignment.com.automationpractice.Assignment@47f37ef1]" name="amountVerificationInProfilePage" duration-ms="6356" started-at="2020-05-12T21:47:13Z" finished-at="2020-05-12T21:47:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amountVerificationInProfilePage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Assignment.com.automationpractice.Assignment@47f37ef1]" name="tearDown" is-config="true" duration-ms="109" started-at="2020-05-12T21:47:19Z" finished-at="2020-05-12T21:47:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Assignment.com.automationpractice.Assignment -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
